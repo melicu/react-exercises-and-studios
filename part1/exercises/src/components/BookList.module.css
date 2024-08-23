@@ -1,0 +1,24 @@
+.bigContainer {
+  border-style: solid;
+  border-color: black;
+}
+
+.container {
+  width: 400px;
+  /* adjust to container size as needed */
+  height: 200px;
+  /* adjust to container size as needed */
+  border-color: black;
+}
+
+.container img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.booksHeading {
+  color: blue;
+  text-align: center;
+  font-size: 1.25rem;
+}

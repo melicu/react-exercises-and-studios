@@ -1,7 +1,14 @@
 .choresText {
-   color: black;
+   color: orangered;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 1rem;
+   font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
-   color: black;
+   color: red;
+   font-size: 1.25rem;
+   text-decoration: underline;
+   text-align: left;
 }
