@@ -1,17 +1,18 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "The Best Cheesecake Recipe",
+     "author": "Sam Merritt",
+     "description": "Impress your guests with this rich, smooth, and creamy cheesecake served over a crisp homemade graham cracker crust. Yum!e",
+     "website": "https://sugarspunrun.com/best-cheesecake-recipe/",
+     "recipeImage": "https://sugarspunrun.com/wp-content/uploads/2019/01/Best-Cheesecake-Recipe-2-1-of-1-7.jpg",
+     "authorImage": "https://sugarspunrun.com/wp-content/uploads/2019/03/sugar-spun-run-1-of-1-2.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "cream cheese, softened",
+       "sugar",
+       "sour cream",
+       "vanilla extract",
+       "salt",
+       "eggs"
      ]
    }
  ]
